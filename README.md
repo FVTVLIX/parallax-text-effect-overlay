@@ -6,7 +6,11 @@ _I recently got inspired by the designs on Awwwards and wanted to recreate a scr
 
 ## Image 
 
-![]()
+![](scroll.gif) 
+
+<br>
+
+_The image provided was taken by me. Please give me credit if you decide to use it!_
 
 ## Font
 
